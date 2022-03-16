@@ -17,11 +17,10 @@ Required:
 <!-- The site will have automatically started running on `http://localhost:8000`! -->
 
 ## Members
-- [Bas's profile](https://github.com/HU-SD-V2PRFED-studenten-2122/prfed-2122-v2c-5-zwaardvechters/wiki/Bas)
-- [Vincent's profile](https://github.com/HU-SD-V2PRFED-studenten-2122/prfed-2122-v2c-5-zwaardvechters/wiki/Vincent)
-- [Iwan's profile](https://github.com/HU-SD-V2PRFED-studenten-2122/prfed-2122-v2c-5-zwaardvechters/wiki/Iwan)
-- [Matthijs' profile](https://github.com/HU-SD-V2PRFED-studenten-2122/prfed-2122-v2c-5-zwaardvechters/wiki/Matthijs)
-- [Mehmet's profile](https://github.com/HU-SD-V2PRFED-studenten-2122/prfed-2122-v2c-5-zwaardvechters/wiki/Mehmet)
+- [Bas's profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md)
+- [Iwan's profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md)
+- [Matthijs' profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md)
+- [Vincent's profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md)
 
 ## Git Strategy 
 <!-- For this project we will be using a feature branch workflow. 
