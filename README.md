@@ -31,7 +31,7 @@ committing to that branch our changes and then if everything is finished creatin
 After a release has been made tests will be run on github, and if those complete successfully it will deploy automatically to the server -->
 
 ## Documentation
-[link to documentation](https://github.com/webbasedcode/documentation/wiki/documentation)
+[Link to documentation](https://github.com/webbasedcode/documentation/wiki/documentation)
 
 
 <!-- ## Functional design
