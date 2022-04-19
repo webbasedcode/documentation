@@ -1,6 +1,6 @@
 # De 5 zwaardvechters
 
-Website is online on: 
+<!-- Website is online on: 
 http://---.com/
 
 ## 🔧 Setup for Local Development
@@ -14,7 +14,7 @@ Required:
 
 ```
 
-<!-- The site will have automatically started running on `http://localhost:8000`! -->
+ The site will have automatically started running on `http://localhost:8000`! -->
 
 ## Members
 - [Bas's profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md)
