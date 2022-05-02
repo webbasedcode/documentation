@@ -35,3 +35,15 @@ And a database would be a bad choice due to it costing tons more memory.
 
 This would best be learned at the [demo repo under redis.](https://github.com/webbasedcode/demo/tree/main/backend-demo/src/main/java/com/demowebsocket)
 As there is an implementation in development there currently.
+
+### Commands:
+- lpush(key, strings):
+  - Adds the strings at the left side at the key list
+- rpush(key, strings):
+  - Adds the strings at the right side at the key list
+- lset(key, index, string)
+  - Sets the value at the index to that string
+  
+- [RECOMMENDED LOOK INTO](https://redis.io/commands/keys/)
+  - Is apperently a better way then the current list we use
+  - Includes a warning for using KEYS command
