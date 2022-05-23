@@ -29,3 +29,6 @@
 ## Best place to learn:
 
 Link to location, and explanation
+
+## Used resources
+[link to used resources]()
