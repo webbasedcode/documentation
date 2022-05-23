@@ -5,8 +5,6 @@
 ## Info
 * Colaborators: {colaborator1}, ...
 > voorbeeld: Colaborators: [Bas](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md), [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md), [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md) & [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
-<!-- * Sprint: {time-period}
-> Sprint: sprint 1 t/m sprint 2 -->
 * [link to jira of {TYPE}]({link})
 > voorbeeld: [link to jira of User story](https://codelaborative.atlassian.net/jira/software/projects/COD/boards/1?selectedIssue=COD-55)
 
@@ -50,13 +48,14 @@ precondtion: {precondition}
 
 ## *COMPLEMENTING* Images
 ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-explanation by/for test image
+
+explanation by/for image
 
 > voorbeeld:  
 > ![link to {image}]({link})
+> 
 > explanation
-> ![link to {image}]({link})
-> explanation
+> 
 > ...
 
 
