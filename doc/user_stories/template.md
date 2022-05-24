@@ -1,5 +1,5 @@
 # {TYPE} description: {TITLE}
-> voorbeeld: Userstory description: As a programmer I want to be able to delete a file]
+> voorbeeld: Userstory description: As a programmer I want to be able to delete a file
 
 
 ## Info
