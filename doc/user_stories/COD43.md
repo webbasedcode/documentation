@@ -1,4 +1,4 @@
-# As a programmer I want to run commands in a shared in-browser Linux terminal
+# User Story description: As a programmer I want to run commands in a shared in-browser Linux terminal
 
 
 ## Info
