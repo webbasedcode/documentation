@@ -2,7 +2,7 @@
 
 
 ## Info
-* Colaborators: [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
+* Colaborator: [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
 * [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-58)
 
 ## Beschrijving 
