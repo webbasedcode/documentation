@@ -3,7 +3,7 @@
 
 ## Info
 * Colaborators: [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md) & [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
-* [link to jira of User story](https://codelaborative.atlassian.net/browse/COD-43)
+* [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-43)
 
 
 ## Beschrijving 
@@ -32,3 +32,20 @@ Precondition: Logged in, authorized, within project.
 ![link to wireframe of projectpage](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
 Info: On the bottom of the image a terminal will be created where linux commands can be executed on, these commands will be shown live to all users vieuwing this project page.
+
+
+<!-- ## *EXTRA* Code
+```{coding language}
+{code} 
+```
+
+> voorbeeld: 
+> ```js
+> function onload() {
+>        let user = window.location.href.replace("http://localhost:3000/login", "");
+>        if (user.length > 6) {
+>            store.dispatch(userToken(user.replace("?user=", "")));
+>            redirect();
+>        } 
+>    }
+> ``` -->
