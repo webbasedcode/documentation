@@ -44,3 +44,20 @@ precondtion: {precondition}
 ![link to wireframe of projectpage](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
 Info: On the bottom of the image a terminal will be created where linux commands can be executed on, these commands will be shown live to all users vieuwing this project page.
+
+
+<!-- ## *EXTRA* Code
+```{coding language}
+{code} 
+```
+
+> voorbeeld: 
+> ```js
+> function onload() {
+>        let user = window.location.href.replace("http://localhost:3000/login", "");
+>        if (user.length > 6) {
+>            store.dispatch(userToken(user.replace("?user=", "")));
+>            redirect();
+>        } 
+>    }
+> ``` -->
