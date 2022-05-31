@@ -3,7 +3,7 @@
 
 
 ## Info
-* Colaborators: {colaborator1}, ...
+* Colaborator(s): {colaborator1}, ...
 > voorbeeld: Colaborators: [Bas](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md), [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md), [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md) & [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
 * [link to jira of {TYPE}]({link})
 > voorbeeld: [link to jira of User story](https://codelaborative.atlassian.net/jira/software/projects/COD/boards/1?selectedIssue=COD-55)
