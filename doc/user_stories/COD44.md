@@ -3,7 +3,7 @@
 
 ## Info
 * Colaborators: [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md), [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md)
-* [link to jira of User story](https://codelaborative.atlassian.net/jira/software/projects/COD/boards/1/roadmap?selectedIssue=COD-44)
+* [link to jira of User story](https://codelaborative.atlassian.net/browse/COD-43)
 
 
 ## Beschrijving 
