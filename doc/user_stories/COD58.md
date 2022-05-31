@@ -1,5 +1,4 @@
 # User Story description: As a programmer i want to be able to manage the docker containers manually for test purposes
-> voorbeeld: Userstory description: As a programmer I want to be able to delete a file
 
 
 ## Info
