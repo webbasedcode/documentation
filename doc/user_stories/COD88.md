@@ -3,7 +3,7 @@
 
 ## Info
 * Colaborator: [Bas](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md)
-* [link to jira of User Story]({https://codelaborative.atlassian.net/browse/COD-88})
+* [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-88)
 
 
 ## Beschrijving 
