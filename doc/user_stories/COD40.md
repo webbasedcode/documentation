@@ -3,7 +3,7 @@
 
 ## Info
 * Colaborator(s): ...
-* [link to jira of User Story]({https://codelaborative.atlassian.net/browse/COD-40})
+* [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-40)
 
 
 ## Beschrijving 
