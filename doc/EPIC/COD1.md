@@ -2,7 +2,7 @@
 
 
 ## Info
-* [link to jira of EPIC](https://codelaborative.atlassian.net/browse/COD-1)
+* [link to EPIC in jira](https://codelaborative.atlassian.net/browse/COD-1)
 
 
 ## Beschrijving 
