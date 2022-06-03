@@ -46,7 +46,7 @@ precondtion: {precondition}
 > 	  2. System try to reload connection
 
 
-## *COMPLEMENTING* Images
+## *COMPLEMENTING* References
 ![link to {image}]({link})
 
 {explanation by/for image}
@@ -55,6 +55,10 @@ precondtion: {precondition}
 > ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
 > 
 > this is a test image to show how to implement a image into usecase descriptions
+> 
+> 
+> voorbeeld2:
+> [link to learning story](...)
 > 
 > ...
 
