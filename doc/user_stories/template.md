@@ -46,7 +46,7 @@ precondtion: {precondition}
 > 	  2. System try to reload connection
 
 
-## *COMPLEMENTING* Images / References
+## *COMPLEMENTING* images / references
 ![link to {image}]({link})
 
 {explanation by/for image}
