@@ -42,5 +42,5 @@
 <summary>COD58: As a programmer i want to be able to manage the docker containers manually for test purposes</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD58.md)
-* [Link to jira]([https://codelaborative.atlassian.net/browse/COD-51](https://codelaborative.atlassian.net/browse/COD-58))
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-58)
 </details>
