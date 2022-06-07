@@ -6,6 +6,10 @@
 
 
 ## Beschrijving 
+> As a programmer I want to be able to code in a shared in-browser coding-project
+> So that I can work together with coworkers on a problem.
+> This would mean an open document where other programmers can type, and we all see the updates happening live.
+> This should be seperated into projects and files, so that only the programmers active in that file will see the updates happening.
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
