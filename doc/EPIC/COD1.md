@@ -1,4 +1,4 @@
-# EPIC description: As a programmer I want to participate and be able to execute commands in a shared in-browser Linux terminal so I can show other users what certain commands do
+# EPIC description: As a programmer I want to participate and be able to execute commands in a shared in-browser Linux terminal so I can show other programmers what certain commands do
 
 
 ## Info
@@ -6,6 +6,14 @@
 
 
 ## Beschrijving 
+> As a programmer I want to participate and be able to execute commands in a shared in-browser Linux terminal so I can show other programmers what certain commands do
+> When a programmer is typing, this should be live shared accross all on the same project users.
+> When another programmer starts typing, this should be seen as well within the same line as the original programmer
+> After a command is made, and send by pressing enter, the back-end should check if the command is not illegal.
+> If the command is illegal, there should be an error thrown.
+> If the command is legal, it should be executed in a docker container.
+> On a correct executement, the response in the container should be send back to the front-end
+> On an error, the error should be send back to the front-end
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
