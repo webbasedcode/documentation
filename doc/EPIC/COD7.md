@@ -6,6 +6,9 @@
 
 
 ## Beschrijving 
+> As an programmer I want to be able to access the application securely
+> As I don't want my private projects to be seen by everyone.
+> Nor would I want any unwanted visitors on the website.
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
