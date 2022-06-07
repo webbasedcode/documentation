@@ -5,6 +5,8 @@
 
 
 ## Beschrijving 
+> As a programmer I want to be able to send a message in a chat so I can communicate with the team I'm working with
+> This should be a websocket that just returns the message to every person currently in that project.
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
