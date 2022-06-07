@@ -6,6 +6,11 @@
 
 
 ## Beschrijving 
+> As a programmer I want to be able to create a project so I can start working in it together with a team
+> This would mean that a programmer is able to make a new project on the website. Enter a name and which language to use.
+> Then a back-end request should look if the name is available, if so make the project, else throw an error.
+> If there is an error, the programmer can change the name to something available and retry.
+> If succesful, the backend should have made the project and a main. The programmer will be brought to that page.
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
