@@ -1,4 +1,4 @@
-# EPIC description: As a programmer I want to be able to work and share puzzles
+# EPIC description: As a programmer I want to be able to work on and share puzzles
 
 
 ## Info
@@ -6,6 +6,10 @@
 
 
 ## Beschrijving 
+> As a programmer I want to be able to work on and share puzzles
+> There should a seperate tab on the website, where I can see current puzzles.
+> There should also be an option on the website to make your project available as puzzle.
+> So when somebody selects a puzzle, a new project should be made with that puzzle as preset items.
 <!-- {beschrijving van {TYPE}}
 > voorbeeld: As a programmer i want to be able to delete a file on the frontend.
 > This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
