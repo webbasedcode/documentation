@@ -45,11 +45,13 @@ precondtion: {precondition}
 ## *COMPLEMENTING* images / references
 ![link to Activity Diagram of obtaining code](https://github.com/webbasedcode/documentation/blob/main/doc/model/activity_diagram/Activity%20diagram%20obtaining%20code.png)
 
-{explanation by/for image}
+<!-- {explanation by/for image} -->
 
 ![link to image rough scetch redis](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/redis/Rough%20sketch%20redis.png)
 
-{explanation by/for image}
+<!-- {explanation by/for image} -->
+
+![link to image of sequence diagram of using Redis: writing code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/RedisWriteToFile.png)
 
 
 <!-- ## *EXTRA* Code
