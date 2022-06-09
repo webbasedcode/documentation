@@ -40,7 +40,7 @@ precondtion: {precondition}
 
 
 ## *COMPLEMENTING* images / references
-![link to image of using github oauth]({https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/loginpage.png})
+![link to image of using github oauth](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/loginpage.png)
 
 image how github oauth is predicted to be implemented (wireframe)
 
