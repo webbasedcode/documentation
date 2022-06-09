@@ -40,7 +40,7 @@ precondtion: {precondition}
 
 
 ## *COMPLEMENTING* Images
-![link of image that includes logout button]({https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/navbar.png})
+![link of image that includes logout button](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/navbar.png)
 
 image of where and how the logout button is displayed
 
