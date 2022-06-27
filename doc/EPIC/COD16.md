@@ -80,3 +80,11 @@
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD53.md)
 * [Link to jira](https://codelaborative.atlassian.net/browse/COD-53)
 </details>
+
+
+<details>
+<summary>COD182: As a programmer i want proper syntax hightlighting when writing code</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD182.md)
+* [Link to jira](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD182.md)
+</details>
