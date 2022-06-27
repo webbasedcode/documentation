@@ -27,6 +27,22 @@
 
 
 <details>
+<summary>COD52: As a programmer I want to be able to run my Java code on the application</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD52.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-52)
+</details>
+
+
+<details>
+<summary>COD45: As a programmer I want to be able to view the results of my run javascript(nodejs) code from a project in the browser</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD45.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-45)
+</details>
+
+
+<details>
 <summary>COD55: As a programmer I want to be able to delete a file</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD55.md)
@@ -43,14 +59,6 @@
 
 
 <details>
-<summary>COD45: As a programmer I want to be able to view the results of my run javascript(nodejs) code from a project in the browser</summary>
-
-* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD45.md)
-* [Link to jira](https://codelaborative.atlassian.net/browse/COD-45)
-</details>
-
-
-<details>
 <summary>COD54: As a programmer I want to be able to create a file for a project</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD54.md)
@@ -63,14 +71,6 @@
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD32.md)
 * [Link to jira](https://codelaborative.atlassian.net/browse/COD-32)
-</details>
-
-
-<details>
-<summary>COD52: As a programmer I want to be able to run my Java code on the application</summary>
-
-* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD52.md)
-* [Link to jira](https://codelaborative.atlassian.net/browse/COD-52)
 </details>
 
 
