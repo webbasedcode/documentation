@@ -1,6 +1,6 @@
 
 # EXTRA CODS
-these are the user issues /tasks that didn't quite fit in one of the EPIC's.
+> these are the user issues /tasks that didn't quite fit in one of the EPIC's.
 
 
 ## User Stories
