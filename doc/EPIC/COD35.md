@@ -14,6 +14,7 @@
 > Then an (succes) response shoud be returned -->
 
 
+## User Stories
 <details>
 <summary>COD37: As a programmer I want to be able to reference code in my message</summary>
 
@@ -22,7 +23,6 @@
 </details>
 
 
-## User Stories
 <details>
 <summary>COD36: As a programmer I want to be able to send messages</summary>
 
