@@ -52,3 +52,11 @@
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD58.md)
 * [Link to jira](https://codelaborative.atlassian.net/browse/COD-58)
 </details>
+
+
+<details>
+<summary>COD171: As a programmer I want to have a fast response service to be able to work together with other programmers</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD171.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-171)
+</details>
