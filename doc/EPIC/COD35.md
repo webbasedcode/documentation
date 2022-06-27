@@ -14,20 +14,20 @@
 > Then an (succes) response shoud be returned -->
 
 
+<details>
+<summary>COD37: As a programmer I want to be able to reference code in my message</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD37.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-37)
+</details>
+
+
 ## User Stories
 <details>
 <summary>COD36: As a programmer I want to be able to send messages</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD36.md)
 * [Link to jira](https://codelaborative.atlassian.net/browse/COD-36)
-</details>
-
-
-<details>
-<summary>COD37: As a programmer I want to be able to reference code in my message</summary>
-
-* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD37.md)
-* [Link to jira](https://codelaborative.atlassian.net/browse/COD-37)
 </details>
 
 
