@@ -28,6 +28,22 @@
 
 
 <details>
+<summary>COD49: As a programmer I want to be able to download a single file from my project</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD49.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-49)
+</details>
+
+
+<details>
+<summary>COD48: As a programmer I want to be able to download files from my project</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD48.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-48)
+</details>
+
+
+<details>
 <summary>COD39: As a programmer I want to be able to create a project from a given template</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD39.md)
@@ -52,24 +68,8 @@
 
 
 <details>
-<summary>COD49: As a programmer I want to be able to download a single file from my project</summary>
-
-* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD49.md)
-* [Link to jira](https://codelaborative.atlassian.net/browse/COD-49)
-</details>
-
-
-<details>
 <summary>COD34: As a program leader I want to be able to invite other people to my project</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD34.md)
 * [Link to jira](https://codelaborative.atlassian.net/browse/COD-34)
-</details>
-
-
-<details>
-<summary>COD48: As a programmer I want to be able to download files from my project</summary>
-
-* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD48.md)
-* [Link to jira](https://codelaborative.atlassian.net/browse/COD-48)
 </details>
