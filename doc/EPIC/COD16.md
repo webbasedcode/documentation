@@ -83,6 +83,14 @@
 
 
 <details>
+<summary>COD170: As a programmer I want to be able to write some code and leave the website without worrying if the project is saved</summary>
+
+* [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD170.md)
+* [Link to jira](https://codelaborative.atlassian.net/browse/COD-170)
+</details>
+
+
+<details>
 <summary>COD182: As a programmer i want proper syntax hightlighting when writing code</summary>
 
 * [User Story description](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD182.md)
