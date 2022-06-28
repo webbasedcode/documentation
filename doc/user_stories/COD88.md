@@ -11,10 +11,10 @@ Being able to login to the application using github, this feature is in relation
 
 
 ## Steps
-1. The User presses the github login button 
-2. System redirects the User to mutiple github auth pages with info (see [working with oauth](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth.md))
-3. System logs in / creates account with information
-4. System redirects User (Now programmer) to the home page
+> 1. The User presses the github login button 
+> 2. System redirects the User to mutiple github auth pages with info (see [working with oauth](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth.md))
+> 3. System logs in / creates account with information
+> 4. System redirects User (Now programmer) to the home page
 
 
 ## *COMPLEMENTING* images / references
