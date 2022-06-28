@@ -22,6 +22,10 @@ Creating a simple react component for logging out with a redirect to the login p
 
 image of where and how the logout button is displayed
 
+![link of image of landing page ](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/loginpage.png)
+
+This page is displayed after the System has logged out of the application
+
 
 <!-- ## *EXTRA* Code
 ```{coding language}
