@@ -7,42 +7,26 @@
 
 
 ## Beschrijving 
-Being able to login to the application using github, this feature is in relation of learning story 98 learning to work with oath
+Being able to login to the application using github, this feature is in relation of [learning story 98 learning to work with oath](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth.md)
 
 
-<!-- ## Steps
-precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
-
-> voorbeeld:
-> 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
-> 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message
-> 	  2. System try to reload connection -->
+## Steps
+1. The User presses the github login button 
+2. System redirects the User to mutiple github auth pages with info (see [working with oauth](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth.md))
+3. System logs in / creates account with information
+4. System redirects User (Now programmer) to the home page
 
 
 ## *COMPLEMENTING* images / references
 ![link to image of using github oauth](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/loginpage.png)
 
 image how github oauth is predicted to be implemented (wireframe)
+
+![link toHome page](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectspage.png)
+
+image of homepage that the system redirect you to after oauth
+
+* [learning to work with oath](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth.md)
 
 
 <!-- ## *EXTRA* Code
