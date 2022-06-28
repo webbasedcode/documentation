@@ -1,4 +1,4 @@
-# Retrospective 1
+# Retrospective 2
 
 > De eerste week van de sprint hebben we helaas niet veel kunnen doen door een deadline van een schoolopdracht, deze hebben we goed afgerond in die week en we hebben ons best gedaan dit de week erna in te halen. Echter waren er helaas wat communicatie en ontstaan waardoor het werk minder snel ging. Ook hebben we veel dingen moeten leren(Docker, Oath, websockets) waar we ook lang mee bezig zijn geweest. De dingen waar we lang mee bezig waren met leren zijn gelukkig nu allemaal klaar of bijna klaar, en we hopen volgende sprint het tempo weer op te kunnen pakken.
 
