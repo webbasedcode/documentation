@@ -2,7 +2,7 @@
 
 
 ## Info
-* Colaborator(s): [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md) & [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md)
+* Colaborator: [Bas](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md)
 * [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-34)
 
 ## Beschrijving 
