@@ -30,5 +30,5 @@ The fact that the end goal is to authorize & authenticate with github only justi
 [GitHub Docs (OAuth apps)](https://docs.github.com/en/developers/apps/building-oauth-apps)
 
 ## Used resources
-[link to used resources](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth_used_resources.md)
-[met hulp en samenwerking van Tom Kempers](https://github.com/TomKemperNL)
+* [link to used resources](https://github.com/webbasedcode/documentation/blob/main/doc/learningstories/oauth/oauth_used_resources.md)
+* [met hulp en samenwerking van Tom Kempers](https://github.com/TomKemperNL)
