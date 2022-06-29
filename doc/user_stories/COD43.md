@@ -35,7 +35,7 @@ Info: On the bottom of the image a terminal will be created where linux commands
 
 ![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/DockerRunProject.png)
 
-simple concept image of sequence diagram of running code
+simple concept image of sequence diagram of running terminal
 
 ![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Coder.png)
 
