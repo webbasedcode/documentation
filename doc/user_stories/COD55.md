@@ -1,4 +1,4 @@
-# {TYPE} description: {TITLE}
+# User Story description: As a programmer I want to be able to delete a file
 > voorbeeld: User Story description: As a programmer I want to be able to delete a file
 
 
@@ -10,51 +10,24 @@
 Being able to delete a file from a project, right clicking on a file in the file directory and selecting delete file 
 
 
-<!-- ## Steps
-precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
-
-> voorbeeld:
-> 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
-> 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message
-> 	  2. System try to reload connection -->
+## Steps
+> precondtion: User is logged in, User is allowed in a project, User is in the page of the allowed project & there is atleast 1 existing file (in the project)
+> 1. Programmer right clicked a file
+> 2. System shows button to delete file
+> 3. Programmer requests to delete the file
+> 4. Sytem checks whether the file can be deleted (does it still exist)
+> 5. System deletes the file
+> 6. System reloads the file directory
 
 
 ## *COMPLEMENTING* images / references
-<!-- ![link to {image}]({link})
+![link to image of wireframe of page where file derectory exists](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
-{explanation by/for image}
+image of wireframe of page where file derectory exists
 
-> voorbeeld:  
-> ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-> 
-> this is a test image to show how to implement a image into usecase descriptions
-> 
-> 
-> voorbeeld2:
-> [link to learning story](...)
-> 
-> ... -->
+![image of Sequence Diagram of Account](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/ActionOnFileTreeOptionDelete.png)
 
+Sequence Diagram of deleteing a file (in the file directory)
 
 <!-- ## *EXTRA* Code
 ```{coding language}
