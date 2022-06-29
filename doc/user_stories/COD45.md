@@ -21,20 +21,9 @@ Getting a response from the run javascript code and displaying this in a console
 	  2. Error from run issues
 
 ## *COMPLEMENTING* images / references
-<!-- ![link to {image}]({link})
+![link to image where to vieuw the result of the runed code](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
 {explanation by/for image}
-
-> voorbeeld:  
-> ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-> 
-> this is a test image to show how to implement a image into usecase descriptions
-> 
-> 
-> voorbeeld2:
-> [link to learning story](...)
-> 
-> ... -->
 
 
 <!-- ## *EXTRA* Code
