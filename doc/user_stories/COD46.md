@@ -6,41 +6,24 @@
 
 
 ## Beschrijving 
-{beschrijving van {TYPE}}
-> voorbeeld: As a programmer i want to be able to delete a file on the frontend.
-> This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
-> grab the latest version of the project out of the cache and delete the file if the project contains the {file Identifyer}. 
-> Then an (succes) response shoud be returned
+> As a programmer I want to activly chat with the other project members; so communication & teamwork is made easier & better. This is done by having the programmers connected by a websocket and updating all the messages live to everyone in the project.
 
 
 ## Steps
-precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
-
-> voorbeeld:
+> precondition: the user is signed in, the user is allowed to use the application, the programmer is in a project, the programmer is in the main screen of the project
 > 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
+> **[PRO-ACTIVE]**
+> 1. Programmer types a message
+> 2. Programmer sends the message (via button)
+> 3. System updates all messages
+> 4. System returns all messages
+> 5. System displays all messages
 > 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message
-> 	  2. System try to reload connection
-
+> **[RE-ACTIVE]**
+> 1. System detects a change in messages
+> 2. System updates all messages
+> 3. System returns all messages
+> 4. System displays all messages
 
 ## *COMPLEMENTING* images / references
 ![link to {image}]({link})
@@ -59,7 +42,7 @@ precondtion: {precondition}
 > ...
 
 
-## *EXTRA* Code
+<!-- ## *EXTRA* Code
 ```{coding language}
 {code} 
 ```
