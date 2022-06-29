@@ -12,18 +12,11 @@
 ## Steps
 > precondition: the user is signed in, the user is allowed to use the application, the programmer is in a project, the programmer is in the main screen of the project
 > 
-> **[PRO-ACTIVE]**
 > 1. Programmer types a message
 > 2. Programmer sends the message (via button)
 > 3. System updates all messages
 > 4. System returns all messages
 > 5. System displays all messages
-> 
-> **[RE-ACTIVE]**
-> 1. System detects a change in messages
-> 2. System updates all messages
-> 3. System returns all messages
-> 4. System displays all messages
 
 
 ## *COMPLEMENTING* images / references
