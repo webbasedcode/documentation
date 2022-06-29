@@ -10,32 +10,14 @@ As a programmer i want to be able to press the run button on the frontend. This 
 
 
 ## Steps
-<!-- precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
 
-> voorbeeld:
-> 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
-> 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message 
-> 	  2. System try to reload connection -->
+ Precondition: Logged in, authorized, within project, code written.
+ 1. Programmer clicks on run button
+ 2. System tries to run code
+    1. System returns errors  
+ 3. Programmer receives result
+	  1. Run output
+	  2. Error from run issues
 
 
 ## *COMPLEMENTING* images / references
