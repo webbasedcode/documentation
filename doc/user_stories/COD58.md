@@ -8,6 +8,8 @@
 ## Beschrijving 
 This feature is mostly functionality for testing out how the connection to docker works with spring, afterwards most of the things this feature does(like starting a container) will be moved inside of other features. For example whenever you run a project one of the first steps it will have to do is start the container. Or whenever you start a project it will have to create a container for it. These basic features will sadly be unable to be tested currently due to difficulties with testing the docker-java plugin we’re currently using
 
+This feature is developer only and not accessible from the frontend
+
 
 <!-- ## Steps
 precondtion: {precondition}
