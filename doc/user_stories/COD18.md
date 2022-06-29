@@ -10,53 +10,38 @@ Being able to create a new project, this should automatically be assigned to the
 
 
 ## Steps
-<!-- precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
-
-> voorbeeld:
-> 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
-> 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message
-> 	  2. System try to reload connection -->
+> precondtion: User is logged in, User is allowed & owner of the project
+> 1. Owner presses the button to create a new project
+> 2. System shows page to create project
+> 3. Owner types: name & picks codelanguage
+> 4. Owner presses send
+> 5. System checks wheter the project name already exsists
+> 6. System creates new project
+> 7. System loads page of newly created project
 
 
 ## *COMPLEMENTING* images / references
-<!-- ![link to {image}]({link})
+![link to image of where to create project](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectspage.png)
 
-{explanation by/for image}
+image of where to create project
 
-> voorbeeld:  
-> ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-> 
-> this is a test image to show how to implement a image into usecase descriptions
-> 
-> 
-> voorbeeld2:
-> [link to learning story](...)
-> 
-> ... -->
+![link to image of project page](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
+
+image of project page
+
+![image of Sequence Diagram of Account](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Account.jpg)
+
+image of Sequence Diagram of Account that contains creating project
 
 
-## *EXTRA* Code
-<!-- ```{coding language}
+![link to image of activity diagram of creating project](https://github.com/webbasedcode/documentation/blob/main/doc/model/Activity_diagram/create_project.png)
+
+image of activity diagram of creating project
+
+
+
+<!-- ## *EXTRA* Code
+```{coding language}
 {code} 
 ```
 
