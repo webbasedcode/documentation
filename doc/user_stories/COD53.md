@@ -7,7 +7,7 @@
 
 
 ## Beschrijving 
-Basically making sure the output of the docker container also works with java.
+Making sure the output of the java code is displayed properly in the frontend like what happens when running javascript code.
 
 
 ## Steps
