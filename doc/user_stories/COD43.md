@@ -33,6 +33,15 @@ Precondition: Logged in, authorized, within project.
 
 Info: On the bottom of the image a terminal will be created where linux commands can be executed on, these commands will be shown live to all users vieuwing this project page.
 
+![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/DockerRunProject.png)
+
+image of sequence diagram of running code
+
+![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Coder.png)
+
+image of sequence diagram of running code
+
+
 
 <!-- ## *EXTRA* Code
 ```{coding language}
