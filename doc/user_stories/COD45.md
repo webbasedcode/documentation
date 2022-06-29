@@ -21,9 +21,13 @@ Getting a response from the run javascript code and displaying this in a console
 	  2. Error from run issues
 
 ## *COMPLEMENTING* images / references
+![link of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Coder.png)
+
+image of sequence diagram of running code
+
 ![link to image where to vieuw the result of the runed code](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
-{explanation by/for image}
+image where to vieuw the result of the runed code
 
 
 <!-- ## *EXTRA* Code
