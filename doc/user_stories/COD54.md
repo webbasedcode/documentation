@@ -9,54 +9,32 @@
 ## Beschrijving 
 Creating a file for a project, a user should enter a name and select a filetype(these will differ depending on code language). There has to be rules excluding special character(.,_)
 
-<!-- ## Steps
-precondtion: {precondition}
-1. {step 1}
-2. {step 2}
-    1. {step 2.1}
-    2. {step 2.2}
-3. {step 3}
-...
+## Steps
+precondtion: User is logged in, User is allowed in a project, User is in the page of the allowed project
+1. Programmer right clicks the directory tree
+2. Programmer types name of file
+3. Programmer clicks confirm
+4. System checks whether it can create the project (checks:)
+    1. if the file already exists
+    2. whether the programmer is allowed to create a file
+* [succes] if Everything is all right the System creates the file 
+* [fail] the request is ignored
+7. System reloads file directory 
 
-> voorbeeld:
-> 
-> Precondition: Logged in, authorized, within project.
-> 1. Programmer selects terminal
-> 2. Programmer enters text
-> 3. Programmer sends run command
-> 4. System checks text for illegal statements
->     1. System returns error for found illegal statements
->     2. System skips execute  
-> 5. System executes text
-> 6. Programmer receives result
-> 	  1. Feedback from Linux terminal
-> 	  2. Error for illegal statements
-> 	  3. Error for runtime exception
-> 
-> * Any time, the connection with back-end is lost:
-> 	  1. System display error message
-> 	  2. System try to reload connection -->
 
 
 ## *COMPLEMENTING* images / references
-<!-- ![link to {image}]({link})
+![link to image of wireframe of page where file derectory exists](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
-{explanation by/for image}
+image of wireframe of page where file derectory exists
 
-> voorbeeld:  
-> ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-> 
-> this is a test image to show how to implement a image into usecase descriptions
-> 
-> 
-> voorbeeld2:
-> [link to learning story](...)
-> 
-> ... -->
+![image of Sequence Diagram of Account](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/ActionOnFileTreeOptionCreate.png)
+
+Sequence Diagram of creating a new file in the directory tree
 
 
-## *EXTRA* Code
-<!--  ```{coding language}
+<!-- ## *EXTRA* Code
+  ```{coding language}
 {code} 
 ```
 
