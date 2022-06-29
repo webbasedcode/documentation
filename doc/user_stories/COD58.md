@@ -10,6 +10,8 @@ This feature is mostly functionality for testing out how the connection to docke
 
 This feature is developer only and not accessible from the frontend
 
+**This feature has currently been removed due to no longer being necessary**
+
 
 <!-- ## Steps
 precondtion: {precondition}
