@@ -21,24 +21,23 @@ As a programmer i want to be able to press the run button on the frontend. This 
 
 
 ## *COMPLEMENTING* images / references
-<!-- ![link to {image}]({link})
+![link to image of wireframe of page where file derectory exists](https://github.com/webbasedcode/documentation/blob/main/doc/wireframes/projectpage.png)
 
-{explanation by/for image}
+image of wireframe of page where code is run
 
-> voorbeeld:  
-> ![test image](https://www.lslegal.nl/wp-content/uploads/2017/03/Test-image-1.jpg)
-> 
-> this is a test image to show how to implement a image into usecase descriptions
-> 
-> 
-> voorbeeld2:
-> [link to learning story](...)
-> 
-> ... -->
+![image of Sequence Diagram of Account](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/DockerRunProject.png)
+
+Sequence diagram van Account run code/project
+
+![image of Sequence Diagram of Coder](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Coder.png)
+
+Sequence diagram van de Coder run code/project
 
 
-## *EXTRA* Code
-<!-- ```{coding language}
+
+
+<!-- ## *EXTRA* Code
+```{coding language}
 {code} 
 ```
 
