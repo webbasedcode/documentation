@@ -11,8 +11,8 @@ Making sure the output of the java code is displayed properly in the frontend li
 
 
 ## Steps
-See [COD45](https://github.com/webbasedcode/documentation/edit/main/doc/user_stories/COD45.md) for steps
+See [COD45](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD45.md) for steps
 
 
 ## *COMPLEMENTING* images / references
-See [COD45](https://github.com/webbasedcode/documentation/edit/main/doc/user_stories/COD45.md) for diagrams
+See [COD45](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD45.md) for diagrams
