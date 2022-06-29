@@ -35,11 +35,11 @@ Info: On the bottom of the image a terminal will be created where linux commands
 
 ![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/DockerRunProject.png)
 
-simple image of sequence diagram of running code
+simple concept image of sequence diagram of running code
 
 ![link to image of sequence diagram of running code](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/sequence%20diagram%20-%20codelaborative%20-%20Coder.png)
 
-Detailed image of sequence diagram of running code
+Detailed implementation image of sequence diagram of running code
 ![link to image](https://github.com/webbasedcode/documentation/blob/main/doc/model/Sequence_diagram/RunTerminal.drawio%20(1).png?raw=true)
 
 
