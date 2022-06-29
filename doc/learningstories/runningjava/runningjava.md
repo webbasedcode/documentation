@@ -23,7 +23,7 @@ We'll implement java into our application because it should be relatively easy a
 
 ## Best place to learn:
 [Link to location](https://hub.docker.com/)
-explanation
+DockerHub is where all the containers are with their documentation
 
 ## Used resources
 [link to used resources](https://hub.docker.com/)
