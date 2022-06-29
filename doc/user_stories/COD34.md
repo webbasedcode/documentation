@@ -35,6 +35,7 @@ This also includes validation for only allowing users in the project to do stuff
 
 this is a wireframe where/how to add new programmers to project
 
+![Sequence Diagram](https://github.com/webbasedcode/documentation/blob/main/doc/Sequence_diagram/AddUserToProject.png)
 
 <!-- ## *EXTRA* Code
  ```{coding language}
