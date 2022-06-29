@@ -1,8 +1,7 @@
 # User Story description: As a programmer I want to be able to view other users messages in my projects messages
 
 ## Info
-* Colaborator(s): {colaborator1}, ...
-> voorbeeld: Colaborators: [Bas](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md), [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md), [Matthijs](https://github.com/webbasedcode/documentation/blob/main/doc/members/Matthijs.md) & [Vincent](https://github.com/webbasedcode/documentation/blob/main/doc/members/Vincent.md) 
+* Colaborator: [Iwan](https://github.com/webbasedcode/documentation/blob/main/doc/members/Iwan.md) & [Bas's profile](https://github.com/webbasedcode/documentation/blob/main/doc/members/Bas.md)
 * [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-46)
 
 
