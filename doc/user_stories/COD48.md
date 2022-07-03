@@ -8,6 +8,7 @@
 
 ## Beschrijving 
 Add download button to file tree to allow you to download all files of the project in a zip.
+Due to file constraints we will not be able to work out this feature in the final release.
 
 
 ## Steps
