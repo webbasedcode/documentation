@@ -8,6 +8,7 @@
 
 ## Beschrijving 
 Add extra option in rightclick submenu with the option “download”, this should download a file from the backend.
+Due to time constraints, we will not be able to work this feature out in the final release
 
 
 ## Steps
