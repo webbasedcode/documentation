@@ -9,11 +9,8 @@
 
 
 ## Beschrijving 
-{beschrijving van {TYPE}}
-> voorbeeld: As a programmer i want to be able to delete a file on the frontend.
-> This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
-> grab the latest version of the project out of the cache and delete the file if the project contains the {file Identifyer}. 
-> Then an (succes) response shoud be returned
+Being able to see where everyone is typing and their text cursor in the code area. This will allow users to work better together and see what everyone is doing.
+Due to time constraints this feature will not be worked out in the final release
 
 
 ## Steps
