@@ -9,6 +9,7 @@
 ## Beschrijving 
 Being able to see the outcome of commands other people run on a docker container, this would require the use of streams and making sure all the users 
 looking at the console receive the outcome of a command that was run
+For extra info see [COD-43](https://github.com/webbasedcode/documentation/blob/main/doc/user_stories/COD43.md)
 
 
 <!-- ## Steps
