@@ -8,11 +8,8 @@
 
 
 ## Beschrijving 
-{beschrijving van {TYPE}}
-> voorbeeld: As a programmer i want to be able to delete a file on the frontend.
-> This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
-> grab the latest version of the project out of the cache and delete the file if the project contains the {file Identifyer}. 
-> Then an (succes) response shoud be returned
+Being able to upload files into a project to make it easier to start working on it.
+Due to file constraints we will not be able to work out this feature in the final release.
 
 
 ## Steps
