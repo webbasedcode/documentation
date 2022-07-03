@@ -8,11 +8,9 @@
 
 
 ## Beschrijving 
-{beschrijving van {TYPE}}
-> voorbeeld: As a programmer i want to be able to delete a file on the frontend.
-> This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
-> grab the latest version of the project out of the cache and delete the file if the project contains the {file Identifyer}. 
-> Then an (succes) response shoud be returned
+Being able to reference code in a message, this should be done by rightclicking on a area in the code and pressing reference area. 
+This should make it easier for users to discuss what they're working on.
+Due to file constraints we will not be able to work out this feature in the final release.
 
 
 ## Steps
