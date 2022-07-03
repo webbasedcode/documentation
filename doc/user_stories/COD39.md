@@ -7,12 +7,9 @@
 * [link to jira of User Story](https://codelaborative.atlassian.net/browse/COD-39)
 
 
-## Beschrijving 
-{beschrijving van {TYPE}}
-> voorbeeld: As a programmer i want to be able to delete a file on the frontend.
-> This should send a request with the projectId and {file Identifyer} to the backend after which the backend should look for the project with this id, 
-> grab the latest version of the project out of the cache and delete the file if the project contains the {file Identifyer}. 
-> Then an (succes) response shoud be returned
+## Description 
+Being able to create a project with a given template, for example when you create a java project you should be able to select "maven project" which changes the run command and adds a pom.xml.
+Due to file constraints we will not be able to work out this feature in the final release.
 
 
 ## Steps
