@@ -22,6 +22,8 @@
 The constant maintainability of OAuth by GitHub is a good indication of the activity that it is worked on. 
 The fact that the end goal is to authorize & authenticate with github only justifies using a github implementation
 
+![sequence of GitHub OAuth2](https://images.ctfassets.net/cdy7uua7fh8z/2nbNztohyR7uMcZmnUt0VU/2c017d2a2a2cdd80f097554d33ff72dd/auth-sequence-auth-code.png)
+
 ## Implementation visible:
 - [Backend repository > oauth (& other places)](https://github.com/webbasedcode/backend)
 - [Frontend repository > login (& other places)](https://github.com/webbasedcode/frontend)
